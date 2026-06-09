@@ -1,0 +1,1 @@
+// src/services/newsService.js
